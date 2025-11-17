@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "id": "001",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "category": "Programming",
+      "price": 24.99,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api%22",
+      "reserved": "false"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 32.5,
+      "cover": "https://books.google.com/books/publisher/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&source=gbs_api%22",
+      "reserved": false,
+      "id": "002"
+    },
+    {
+      "id": "c85b",
+      "title": "The Great Gatsby",
+      "author": "\tF. Scott Fitzgerald",
+      "category": "Fantasy",
+      "price": "10.5",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/1024px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    }
+  ]
+}
